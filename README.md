@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Customer Data Manager
+# Customer Data Manager
 A simple desktop application built using Python, Tkinter, and MySQL for managing customer visit data in a restaurant. This app allows users to enter, view, and delete customer records, with filtering by visit date/month.
 
 🧰 Features
